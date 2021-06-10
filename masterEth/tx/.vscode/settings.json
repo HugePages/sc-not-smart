@@ -1,0 +1,13 @@
+{
+    "btc-price-watch.coin": [
+        "btcusdt",
+        "yfiusdt",
+        "ethusdt",
+        "ckbusdt",
+        "woousdt",
+        "dotusdt",
+        "ksmusdt",
+        "yfiiusdt",
+    ],
+    "btc-price-watch.updateInterval": 1000
+}

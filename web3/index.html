@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<header>
+    <script src="https://cdn.jsdelivr.net/npm/web3@latest/dist/web3.min.js"></script>
+</header>
+<script type="text/javascript">
+    var Web3 = window.web3;
+
+    // var Web3 = require('web3');
+    var web3 = new Web3(Web3.givenProvider || 'wss://mainnet.infura.io/ws/v3/442c8fe3cb0749f5b3b42617774c26ff');
+    let a = web3.eth.getTranscationCount("0x9e713963a92c02317a681b9bb3065a8249de124f", "pending");
+    console.log(a);
+    // -> web3.eth
+</script>
+
+</html>

@@ -1,0 +1,14 @@
+{
+  "name": "web3",
+  "version": "1.0.0",
+  "description": "web3 foo",
+  "main": "index.js",
+  "scripts": {
+    "test": "wt"
+  },
+  "author": "zhangyu",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "web3": "^1.3.5"
+  }
+}
