@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: GPL-3.0
-pragma solidity >=0.4.16 <=0.8.4;
+pragma solidity >=0.4.16 <=0.8.5;
 
 contract EtherStore {
     uint256 public withdrawLimit = 1 ether;
