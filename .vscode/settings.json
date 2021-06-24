@@ -1,17 +1,13 @@
 {
     "btc-price-watch.updateInterval": 1000,
     "btc-price-watch.coin": [
-
-
         "btcusdt",
         "ethusdt",
         "woousdt",
-        "uniusdt",
-        "ksmusdt",
-        "dotusdt",
         "ckbusdt",
-        "omgusdt",
         "solusdt",
+        "dotusdt",
+        "ksmusdt",
         "yfiusdt",
     ],
   
