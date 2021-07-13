@@ -1,0 +1,27 @@
+{
+  "name": "ztoken",
+  "version": "1.0.0",
+  "description": "my own token , just for fun",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "token",
+    "erc20"
+  ],
+  "author": "don",
+  "license": "ISC",
+  "devDependencies": {
+    "dotenv": "^10.0.0",
+    "ethereumjs-wallet": "^1.0.1",
+    "truffle-wallet-provider": "^0.0.5"
+  },
+  "dependencies": {
+    "openzeppelin-solidity": "^4.2.0",
+    "web3-utils": "^1.4.0"
+  }
+}
